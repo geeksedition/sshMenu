@@ -10,10 +10,10 @@
 
 
 #User Variables, YOU change these to your needs.
-SHOW_HEADER=1				# Do you want a custom message at the top?
+SHOW_HEADER=0				# Do you want a custom message at the top?
 CLEAR_SCREEN=1				# 1 to clear screen
 MENU_HEADER_FILE="/home/ilangdon/bin/sshMenu/ServerListInfo"	# Text file with menu header
-SERVER_LIST_FILE="/home/ilangdon/bin/sshMenu/ServerList"		# File with Server List
+SERVER_LIST_FILE="/home/ilangdon/.ServerList"		# File with Server List
 
 VERSION="1.1"
 
