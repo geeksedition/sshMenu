@@ -1,0 +1,9 @@
+#Friendly_Name:User_Name:IP/FDQN_Address:Port(if not there, assumes port 22)
+
+
+#This is an example of a basic entry using default port
+MenuEntryName:UserName:192.168.1.1
+
+#This is another example that uses a custom port
+CustomPortServer:admin:192.168.123.3:9000
+
